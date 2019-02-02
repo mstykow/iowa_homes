@@ -1,6 +1,6 @@
 # Predicting Housing Prices in Ames, Iowa
 
-In this Kaggle competition we try to build the best possible model, using advanced regression techniques, to predict housing prices in Ames, Iowa according to a list of 79 features. Open the [Kaggle kernel](https://github.com/mstykow/iowa_homes/blob/master/kernels/kernel.ipynb) to follow the project.
+In this [Kaggle](https://www.kaggle.com/) competition we try to build the best possible model, using advanced regression techniques, to predict housing prices in Ames, Iowa according to a list of 79 features. Open the [Kaggle kernel](https://github.com/mstykow/iowa_homes/blob/master/kernels/kernel.ipynb) to follow the project.
 
 * [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
